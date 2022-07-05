@@ -3,6 +3,11 @@
 
 ![download-_1_](https://user-images.githubusercontent.com/98824713/177101770-8528f268-e63c-4f24-aba9-fa4d2ec73732.jpg)
 
+Heart attack is a myocardial necrosis caused by acute and persistent ischemia and hypoxia of coronary artery which manifestations are arrhythmia, shock or heart failure, which can be fatal. A heart attack occurs when the flow of blood to the heart is blocked. The blockage is most often a buildup of fat, cholesterol and other substances, which form a plaque in the arteries that feed the heart (coronary arteries). Sometimes, a plaque can rupture and form a clot that blocks blood flow.
+
+### Dataset Information:
+The dataset consists of 303 rows and 14 columns with label Output. Data contains all numerical data.
+
 ### Refered from kaggle:
 #### https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
