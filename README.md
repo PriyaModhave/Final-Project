@@ -45,7 +45,7 @@ The Aim to create model that help the user to apply machine learning approach to
 
 7.Gradient Boosting for Classification
 
-#### Conclusion:
+### Conclusion:
 In general, the models have good predictive values. The best guess among them is the BernoulliNB model, as it seems.
 ![Screenshot 2022-07-04 125212](https://user-images.githubusercontent.com/98824713/177103143-dace434c-019c-4c54-b591-1f521196d70c.png)
 
