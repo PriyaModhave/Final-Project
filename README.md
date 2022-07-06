@@ -51,7 +51,10 @@ The Aim to create model that help the user to apply machine learning approach to
 7.Gradient Boosting for Classification
 
 ### Conclusion:
-In general, the models have good predictive values. The best guess among them is the BernoulliNB model, as it seems.
+- Comparing performance of model through Logistic regression,SVC,GaussianNB,Random forest,KNN,GradientBoosting and BernoulliNB method
+- we can see that the model perform well to predict where the patient is classified in havinga higher chance of getting heart attack to having less chance to heart attack.
+- we can also see that BernoulliNB has higher chance of predicting more or less chance of having a heart attack compare to other model.
+- BernouliNB model is best accuracy score( 95%) and F1 score(95%) compare to other model
 ![Screenshot 2022-07-04 125212](https://user-images.githubusercontent.com/98824713/177103143-dace434c-019c-4c54-b591-1f521196d70c.png)
 
 ![final result](https://user-images.githubusercontent.com/98824713/177098967-63d2853c-e42f-4ab9-a3af-bfe118126976.png)
